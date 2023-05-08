@@ -10,7 +10,7 @@ import utils.*;
 
 /**
  *
- * @author Mindaugas
+ * @author tatenda mawagno
  */
 public class Main {
 
